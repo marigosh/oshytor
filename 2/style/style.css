@@ -1,0 +1,49 @@
+h1{
+    text-align: center;
+}
+body{
+    background-color: #baffd3;
+    font-family: Geneva, Arial, Helvetica, sans-serif;
+    height: 940px;
+    background: radial-gradient(at top, #FEFFFF, #87ca8c);
+    height: 100%;
+    width: auto;
+    font-size: 16pt;
+}
+.user{
+    width:130px ;
+    height:auto;
+}
+.firstr{
+    font-weight:bold;
+    background-color:#c0ffba50 ;
+    width: 220px;
+    height: 200px;
+}
+table{
+    border: 1px solid ;
+    text-align: center;
+  
+    border-collapse: collapse;
+    width: 1850px;	height: 850px; 
+
+
+}
+tr,td{
+    border: 1px solid ;
+
+    padding: 10px;
+
+}
+.textt{
+  font-family: 'Rubik One', sans-serif;
+  font-size: 50px;
+  text-transform: uppercase;
+  background: linear-gradient(45deg, #12490b 33%, #3dca49 66%, #8dd68a);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  color: #0b490b;
+  display: table;
+  margin: 20px auto;
+
+}

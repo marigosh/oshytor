@@ -1,0 +1,16 @@
+body{
+    background-color: #fff7eb;
+}
+h1{
+    color: #2e0000;
+}
+h2{
+    color: maroon;
+
+}
+p{
+    color: midnightblue;
+}
+img{
+box-shadow: 0.5px 0.5px 20px 5px #000;
+}
