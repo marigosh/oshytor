@@ -1,0 +1,40 @@
+.container {
+    margin: auto auto;
+    width: 100%;
+    height: 900px;
+}
+.orange {
+    background-image: url(../img/orange.jpg);
+    width: 100%;
+    height: 250px;
+
+}
+.red {
+    background-image: url(../img/red.jpg);
+    width: 100%;
+    height:100px;
+}
+
+.green {
+    background-image: url(../img/green.jpg);
+    float: left;
+    width: 25%;
+    height: 500px;
+}
+
+.grey {
+    background-image: url(../img/grey.jpg);
+    float: right;
+    width: 75%;
+    height: 500px;
+}
+
+.clear {
+    clear: both;
+}
+
+.blue {
+    background-image: url(../img/blue.png);
+   width: 100%;
+   height: 100px;
+}

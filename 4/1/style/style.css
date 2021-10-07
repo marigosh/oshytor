@@ -1,0 +1,54 @@
+.first{
+    border: 4px black solid;
+    width: 300px;
+    height: 470px;
+    margin-top: 20px;
+    margin-right: 7px;
+    padding-left: 20px;
+    float: left;
+    display: block;
+    
+}
+.second{
+    border: 4px blue solid;
+    width: 300px;
+    height: 100px;
+    margin-top: 20px;
+    padding-left: 20px;
+    float: left;
+    display: block;
+    color: blue;
+}
+.third{
+    border: 4px rgb(255, 157, 0) solid;
+    width: 300px;
+    height: 470px;
+    margin-top: 20px;
+    padding-left: 20px;
+    position: absolute;
+    color: rgb(255, 157, 0);
+    margin-left: 335px;
+    margin-top: 135px;
+}
+.fourth{
+    border: 4px red solid;
+    color: red;
+    width: 300px;
+    height: 270px;
+    margin-top: 20px;
+    padding-left: 20px;
+    position: absolute;
+    margin-top: 620px;
+    margin-left: 335px;
+
+}
+.fiveth{
+    border: 4px rgb(174, 0, 255) solid;
+    color: rgb(174, 0, 255);
+    width: 300px;
+    height: 383px;
+    margin-top: 20px;
+    padding-left: 20px;
+    position: absolute;
+    margin-top: 507px;
+}
