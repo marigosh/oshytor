@@ -1,0 +1,64 @@
+
+body{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    line-height: 0.5;
+}
+.america{
+    border-radius: 10px;
+     width: 300px;
+     height: 150px;
+    background: linear-gradient(to top, #a266bb 20%, #758ccc 50%);
+    margin-left: 20px;
+    margin-top: 40px;
+    padding: 10px;
+}
+.imgcap{
+    height: 200px;
+    width: 150px;
+    position: relative;
+    margin-top: -81px;
+}
+.text{
+    text-align: right;
+    color: white;
+
+}
+h1{
+    font-size: 11.5pt;
+}
+p{
+    font-size: 7pt;
+}
+.iron{
+    border-radius: 10px;
+     width: 300px;
+     height: 150px;
+    background: linear-gradient(to top, #642020 20%, #b13838 50%);
+    margin-left: 20px;
+    margin-top: 40px;
+    padding: 10px;
+}
+.vdova{
+    border-radius: 10px;
+    width: 300px;
+    height: 150px;
+    background: linear-gradient(45deg, #000, #370077);
+    margin-left: 20px;
+    margin-top: 40px;
+    padding: 10px;
+}
+.spider{
+    border-radius: 10px;
+     width: 300px;
+     height: 150px;
+     background: linear-gradient(45deg, rgb(54, 0, 0), #9e0000);
+    margin-left: 20px;
+    margin-top: 40px;
+    padding: 10px;
+}
+.imgcap2{
+    height: 10px;
+    width: 120px;
+    position: relative;
+    margin-top: -81px;
+}
